@@ -8,3 +8,11 @@ Operational demands require advertisement expenditure to be reported daily witho
 Solution:
 
 As such, to be able to connect the Meta ads to a google sheet database for easier data connection, the pipeline was built on the Insights API to extract ad spend and other related information.
+
+Technologies used:
+- pandas
+- requests
+
+2 files found:
+*connectionCode*: Main working file
+*deepdive*: extracted functions
